@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://radauftrag.dokufolio.com/sitemap.xml
